@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+.container-card{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+
+.card{
+    display: flex;
+    background-color: white;
+    width: 200px;
+    min-width: 200px;
+    height: 300px;
+    border: solid 1px rgb(184, 183, 183);
+    margin: 10px;
+
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
