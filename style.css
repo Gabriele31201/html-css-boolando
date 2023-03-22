@@ -57,3 +57,19 @@
 .del-price{
     display: inline;
 }
+
+
+
+.navbar{
+    display: flex;
+    background-color: rgb(255, 123, 0);
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+
+.flex-logo{
+    display: flex;
+    height: 20px;
