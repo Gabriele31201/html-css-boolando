@@ -47,3 +47,13 @@
 
     font-size: small;
 }
+
+
+.price{
+    color: red;
+    display: inline;
+}
+
+.del-price{
+    display: inline;
+}
