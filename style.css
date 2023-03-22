@@ -64,8 +64,15 @@
     display: flex;
     background-color: rgb(255, 123, 0);
     height: 70px;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+}
+    
+
+.item{
+    display: flex;
+    gap: 20px;
+    color: white;
 }
     
 
@@ -73,3 +80,9 @@
 .flex-logo{
     display: flex;
     height: 20px;
+}
+
+
+.navbar-item{
+    color: white;
+}
